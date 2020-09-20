@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Plates47.jpg</filename>
+	<path>\\vmware-host\Shared Folders\Desktop\output\images\Plates47.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>555</width>
+		<height>402</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>T</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>52</ymin>
+			<xmax>219</xmax>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+</annotation>
